@@ -1,6 +1,4 @@
-<?<php>
+<?php>
 
-echo $_POST["name"]
-
-
-</php>
+$name = $_POST["name"];
+?>
